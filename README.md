@@ -48,9 +48,9 @@ The project is developed **in phases**, starting with a clean core system and la
 
 ## 📂 Repository Structure (High-Level)
 face-recognition-attendance-platform/
-├── phase1-core-platform/
-├── phase2-scalable-system/
-└── docs/
+-├── phase1-core-platform/
+-├── phase2-scalable-system/
+-└── docs/
 
 ---
 
