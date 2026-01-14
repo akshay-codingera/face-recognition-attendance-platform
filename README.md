@@ -58,6 +58,6 @@ face-recognition-attendance-platform
 **Akshay Butola**  
 B.Tech Computer Science, NIT Uttarakhand
 
-## This project is intended for educational and research purposes only.
+** This project is intended for educational and research purposes only. **
 
 
